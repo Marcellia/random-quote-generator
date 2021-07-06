@@ -1,8 +1,14 @@
 import react from 'react'
 import './App.css';
+import Quotes from './components/Quotes';
+
 
 function App() {
-  return null
+  return (
+    <div className = "App">
+      <Quotes/>
+    </div>
+  )
    
 }
 

@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+* {
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+body{
+    background-color:gold;
+    font-family: 'Dancing Script', cursive;
+    color: white;
+}
+
+#quote-box {
+    background:black;
+    width: 40rem;
+    margin: 10rem auto;
+    border-radius: 5px;
+    padding: 3rem;
+
+}
+
+#text {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+
+}
+
+#author {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 1.2rem;
+}
+
+#new-quote {
+    background:white ;
+    border: none;
+    color:black;
+    padding:.7rem 1rem;
+    border-radius: 5px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: 1rem;
+    cursor:pointer;
+    outline: none;
+}
+
+#new-quote:hover {
+    opacity: 0.6;
+}

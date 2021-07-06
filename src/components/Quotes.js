@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from 'react'
-import quoteslist from '../quoteslist'
+import quoteslist from '../quoteslist';
+
 
 export default function Quotes() {
 	
@@ -24,7 +25,7 @@ export default function Quotes() {
 
 
 	return (
-		<div id = "quote-box">
+		<div id = "quote-box" >
 		<div id = "text">
 			<p>
 				{quote} 

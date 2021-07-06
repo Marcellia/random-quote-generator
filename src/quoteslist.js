@@ -11,10 +11,17 @@ let quotes=[
     }, {
     "quote": "Difficulties increase the nearer we get to the goal.",
     "author": "Johann Wolfgang von Goethe"
-    }, {
+    },{
+		"quote": "Growing up means understanding that there is no right and wrong, its all a game of perspective and agendas",
+		"author": "Ankita Zaveri"
+		}, {
     "quote": "Fate is in your hands and no one elses",
     "author": "Byron Pulsifer"
     }, {
+		"quote": "Growing up means understanding that there is no right and wrong, its all a game of perspective and agendas",
+		"author": "Ankita Zaveri"
+		},
+	{
     "quote": "Be the chief but never the lord.",
     "author": "Lao Tzu"
 	}, {
@@ -27,30 +34,48 @@ let quotes=[
 	"quote": "Life is a learning experience, only if you learn.",
 	"author": "Yogi Berra"
 	}, {
+		"quote": "Growing up means understanding that there is no right and wrong, its all a game of perspective and agendas",
+		"author": "Ankita Zaveri"
+		},{
 	"quote": "Self-complacency is fatal to progress.",
 	"author": "Margaret Sangster"
 	}, {
 	"quote": "Peace comes from within. Do not seek it without.",
 	"author": "Buddha"
 	}, {
+		"quote": "Growing up means understanding that there is no right and wrong, its all a game of perspective and agendas",
+		"author": "Ankita Zaveri"
+		},{
 	"quote": "What you give is what you get.",
 	"author": "Byron Pulsifer"
 	}, {
+		"quote": "Growing up means understanding that there is no right and wrong, its all a game of perspective and agendas",
+		"author": "Ankita Zaveri"
+		}, {
 	"quote": "We can only learn to love by loving.",
 	"author": "Iris Murdoch"
 	}, {
+		"quote": "Growing up means understanding that there is no right and wrong, its all a game of perspective and agendas",
+		"author": "Ankita Zaveri"
+		},{
 	"quote": "Life is change. Growth is optional. Choose wisely.",
 	"author": "Karen Clark"
 	}, {
 	"quote": "You'll see it when you believe it.",
 	"author": "Wayne Dyer"
 	}, {
+		"quote": "Growing up means understanding that there is no right and wrong, its all a game of perspective and agendas",
+		"author": "Ankita Zaveri"
+		},{
 	"quote": "Today is the tomorrow we worried about yesterday.",
 	"author": ""
 	}, {
 	"quote": "It's easier to see the mistakes on someone else's paper.",
 	"author": ""
 	}, {
+		"quote": "Growing up means understanding that there is no right and wrong, its all a game of perspective and agendas",
+		"author": "Ankita Zaveri"
+		},{
 	"quote": "Every man dies. Not every man really lives.",
 	"author": ""
 	}, {
@@ -59,13 +84,19 @@ let quotes=[
 	}, {
 	"quote": "Having nothing, nothing can he lose.",
 	"author": "William Shakespeare"
-	}, {
+	},{
+		"quote": "Growing up means understanding that there is no right and wrong, its all a game of perspective and agendas",
+		"author": "Ankita Zaveri"
+		}, {
 	"quote": "Trouble is only opportunity in work clothes.",
 	"author": "Henry J. Kaiser"
 	}, {
 	"quote": "A rolling stone gathers no moss.",
 	"author": "Publilius Syrus"
 	}, {
+		"quote": "Growing up means understanding that there is no right and wrong, its all a game of perspective and agendas",
+		"author": "Ankita Zaveri"
+		},{
 	"quote": "Ideas are the beginning points of all fortunes.",
 	"author": "Napoleon Hill"
 	}, {

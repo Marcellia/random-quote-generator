@@ -25,7 +25,9 @@ export default function Quotes() {
 
 
 	return (
+		
 		<div id = "quote-box" >
+
 		<div id = "text">
 			<p>
 				{quote} 
@@ -36,9 +38,11 @@ export default function Quotes() {
 				{author}
 			</p>
 		</div>
+	
 		<div id= "buttons">
 			<button onClick={handleClick} id="new-quote"> New Quote </button>
 		</div>
+		
 		</div>
 	)
 }

@@ -24,8 +24,11 @@ background-repeat:no-repeat;
 }
 
 #quote-box {
+    display:flex;  
     border-radius: 5px;
     justify-content: flex-start;
+    align-content: flex-end;
+    flex-direction: column;
 
 }
 

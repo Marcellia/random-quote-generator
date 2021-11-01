@@ -11,10 +11,26 @@ import img13 from "../img/13.JPG";
 import img14 from "../img/14.JPG";
 import Clock from '../Clock'
 
-let backgroundList = [img2,img3,img4,img5,img6,img9,img10,img13,img14]
-let colorList = [
-	'#E2C547','#C2DDC8','#99BFB3','#BCBF50','#D9B64E','#732002','#D98B48'
-]
+import img15 from "../img/15.JPG";
+import img16 from "../img/16.JPG";
+import img17 from "../img/18.JPG";
+import img18 from "../img/21.JPG";
+import img19 from "../img/22.JPG";
+import img20 from "../img/23.JPG";
+import img21 from "../img/24.JPG";
+import img22 from "../img/25.JPG";
+import img23 from "../img/35.JPG";
+import img24 from "../img/36.jpg";
+import img25 from "../img/37.jpg";
+import img26 from "../img/38.jpg";
+import img27 from "../img/39.jpg";
+import img28 from "../img/40.jpg";
+
+
+let backgroundList = [img2,img3,img4,img5,img6,img9,img10,img13,img14,img15,img16,img17,img18,img19,img20,img21,img22,img23,img24,img25,img26,img27,img28]
+// let colorList = [
+// 	'#E2C547','#C2DDC8','#99BFB3','#BCBF50','#D9B64E','#732002','#D98B48'
+// ]
 export default function Quotes() {
 	
 	const [quote,setQuote] = useState("")

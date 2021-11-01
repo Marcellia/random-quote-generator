@@ -58,7 +58,7 @@ font-family: 'Space Mono', monospace;
   }
 #text{
   color: white;
-  text-shadow: 10px 10px 5px black;
+  /* text-shadow: 10px 10px 5px black; */
  background: black;
  border-radius: 10px;
  opacity: 0.6;
@@ -90,9 +90,9 @@ font-family: 'Space Mono', monospace;
     text-decoration: none;
     color: hsla(0, 0%, 90%, 1);
     background: black;
-   opacity:0.5;
+    opacity:0.75;
     border-radius: 10px;
-    box-shadow: 2px 2px 15px -5px hsla(0, 0%, 0%, 1);
+    /* box-shadow: 2px 2px 15px -5px hsla(0, 0%, 0%, 1); */
     text-align: center;
     font-family: 'BioRhyme', serif;
 font-family: 'Space Mono', monospace;
@@ -103,4 +103,5 @@ font-family: 'Space Mono', monospace;
   }
   .button.b1 {
       display: inline-flex; /* element only as wide as content */
+      
   }

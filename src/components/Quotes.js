@@ -1,15 +1,38 @@
-import React, {useState, useEffect} from 'react'
+import React, {useState, useEffect} from 'react';
 import quoteslist from '../quoteslist';
+import img2 from "../img/2.JPG";
+import img3 from "../img/3.JPG";
+import img4 from "../img/4.JPG";
+import img5 from "../img/5.JPG";
+import img6 from "../img/6.JPG";
+import img9 from "../img/9.JPG";
+import img10 from "../img/10.JPG";
+import img13 from "../img/13.JPG";
+import img14 from "../img/14.JPG";
+import Clock from '../Clock'
 
-
+let backgroundList = [img2,img3,img4,img5,img6,img9,img10,img13,img14]
+let colorList = [
+	'#E2C547','#C2DDC8','#99BFB3','#BCBF50','#D9B64E','#732002','#D98B48'
+]
 export default function Quotes() {
 	
 	const [quote,setQuote] = useState("")
 	const [author,setAuthor] = useState("")
+	const [background, setBackground] =useState(img2)
 
 	useEffect (()=> {
 		getQuote()
 	}, []);
+
+
+	const changeBackground = ()=>{
+		let randomNum = Math.floor(Math.random()* backgroundList.length);
+		let randomBg = backgroundList[randomNum];
+		console.log(randomBg)
+		setBackground(randomBg);
+		
+	}
 
 	const getQuote =() => {
 		let randomNum = Math.floor(Math.random()* quoteslist.length);
@@ -21,28 +44,39 @@ export default function Quotes() {
 
 	const handleClick = () =>{
 		getQuote();
+		changeBackground(); 
 	}
 
 
 	return (
-		
-		<div id = "quote-box" >
-
-		<div id = "text">
-			<p>
+<div className= "wrapper" style={{ 
+      backgroundImage: `url(${background})` 
+    }}>
+		<div className="timer">
+	<Clock/>
+	</div>
+	{/* <div className = "page-header"> 
+	This is the Page Header </div> */}
+	{/* <div className = "page-main" >
+		This is the Main Page
+	</div> */}
+	<div className ="page-footer" > 
+	
+	<div id = "text">
+	<div id = "quote">
+			<q>
 				{quote} 
-			</p>
+			</q>
 		</div>
 		<div id = "author">
 			<p>
-				{author}
+				 {author}
 			</p>
 		</div>
-	
-		<div id= "buttons">
-			<button onClick={handleClick} id="new-quote"> New Quote </button>
+	</div>
+	</div>
+	<div className= "button" onClick={handleClick}> Enlighten-Moi
 		</div>
-		
-		</div>
+	</div>
 	)
 }

@@ -1,78 +1,95 @@
 
+
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme&family=Space+Mono:ital,wght@1,400;1,700&display=swap');  
 
-* {
-
-margin: 0;
-
-padding: 0;
-box-sizing: border-box;
-}
-
-
-body{
-background-color:skyblue;
-background-image: url("./img/lakhubaa.jpeg");
-background-repeat:no-repeat;
-margin : 30%;
-  /* background-size:contain; */
-  background-position:center;
-  background-size: 100%;
+html {
+    box-sizing: border-box;
+background-color: black;
+ 
+  }
   
-  height: 20%;
- overflow: hidden;
-    font-family: 'Dancing Script', cursive;
-    /* color: white; */
-}
-
-
-#quote-box {
-    display:flex; 
-    justify-content: center;
-    align-content:center; 
-    background-color: black;
-    border-radius: 5%;
-    /* justify-content: flex-start;
-    align-content: flex-end; */
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+  
+  .datetime{
+    
+  }
+  .timer{
+     color:white;
+     text-shadow: 4px 4px 5px black;
+display: flex;
+justify-content: center;
+     font-size: 2em;
+     align-content: space-between;
+     font-family: 'BioRhyme', serif;
+font-family: 'Space Mono', monospace;
+  }
+  .wrapper {
+   
+    background: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
     flex-direction: column;
-   padding: 10%;
-
-}
-
-#text {
-    color: rgb(255, 253, 253);
-    display: flex;
-    font-size: 1.5rem;
-    margin-bottom: 1.5rem;
-    display:flex; 
+    min-height: 100vh;
+    align-content: center;
     justify-content: center;
-    align-content:center; 
+  }
+  .wrapper > * {
+    
+    padding: 20px;
+  }
 
-}
-
-#author {
-    color: rgb(255, 255, 255);
+  body {
+  
     display: flex;
+    flex-direction: column;
+    
+  }
+#text{
+  color: white;
+  text-shadow: 4px 4px 5px black;
+ 
+font-family: 'Space Mono', monospace;
+  font-size:1.2em;
+  display: flex;
+  align-content: center;
+}
+.page-footer {
+  
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: flex-end;
-    font-size: 1.2rem;
+    font-size: 1.5em;
+  
 }
 
-#new-quote {
-    background:white ;
-    border: none;
-    color:black;
-    padding:.7rem 1rem;
-    border-radius: 5px;
-    font-family: 'Dancing Script', cursive;
-    font-weight: bold;
-    font-size: 1rem;
-    cursor:pointer;
-    outline: none;
-    display:flex; 
-    justify-content: center;
-    align-content:center; 
-}
-
-#new-quote:hover {
-    opacity: 0.6;
-}
+.button {
+    padding: 5px 10px;
+    font-size: 30px;
+    text-decoration: none;
+    color: hsla(0, 0%, 90%, 1);
+    background: linear-gradient(rgb(3, 3, 3), rgb(75, 88, 160));
+   
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px -5px hsla(0, 0%, 0%, 1);
+    text-align: center;
+    font-family: 'BioRhyme', serif;
+font-family: 'Space Mono', monospace;
+  }
+  .button:hover {
+    background: linear-gradient(rgb(44, 44, 44), rgb(89, 68, 109));
+    transition: all 0.2s linear;
+  }
+  .button.b1 {
+      display: inline-flex; /* element only as wide as content */
+  }

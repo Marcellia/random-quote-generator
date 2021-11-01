@@ -86,7 +86,7 @@ font-family: 'Space Mono', monospace;
 
 .button {
     padding: 5px 10px;
-    font-size: 30px;
+    font-size: 1.5em;
     text-decoration: none;
     color: hsla(0, 0%, 90%, 1);
     background: black;
@@ -97,15 +97,16 @@ font-family: 'Space Mono', monospace;
     font-family: 'BioRhyme', serif;
 font-family: 'Space Mono', monospace;
 margin:2%;
+
   }
   .button:hover {
     background: linear-gradient(rgb(44, 44, 44), rgb(89, 68, 109));
     transition: all 0.2s linear;
   }
-  .button.b1 {
-      display: inline-flex; /* element only as wide as content */
+  /* .button.b1 {
+      display: inline-flex; /* element only as wide as content 
     
-  }
+  } */
 
 /* 
   @media only screen and (max-width: 600px) {

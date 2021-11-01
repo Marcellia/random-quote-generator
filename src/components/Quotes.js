@@ -86,7 +86,7 @@ export default function Quotes() {
 		</div>
 	</div>
 	</div>
-	<div className= "button" onClick={handleClick}> Enlighten-Moi
+	<div className= "button" onClick={handleClick}> Enlighten me, with a new quote
 		</div>
 	</div>
 	)

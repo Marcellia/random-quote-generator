@@ -63,7 +63,7 @@ font-family: 'Space Mono', monospace;
  border-radius: 10px;
  opacity: 0.6;
 font-family: 'Space Mono', monospace;
-  font-size:1.2em;
+  font-size:1em;
   display: flex;
   flex-wrap: wrap;
   align-content: center;
@@ -81,7 +81,7 @@ font-family: 'Space Mono', monospace;
 }
 
 .quote {
-  font-style: oblique;
+  font-style:italic;
 }
 
 .button {
@@ -105,3 +105,19 @@ font-family: 'Space Mono', monospace;
       display: inline-flex; /* element only as wide as content */
       
   }
+
+
+  @media only screen and (max-width: 600px) {
+   
+    #text{ 
+      font-size: .5em;
+    }
+  .timer{
+      font-size: .5em;
+      
+  }
+
+  .button { 
+    font-size: .5em;
+  }
+}

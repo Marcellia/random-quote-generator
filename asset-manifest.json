@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/random-quote-generator/static/css/main.8538c701.chunk.css",
-    "main.js": "/random-quote-generator/static/js/main.5df9fff6.chunk.js",
-    "main.js.map": "/random-quote-generator/static/js/main.5df9fff6.chunk.js.map",
+    "main.css": "/random-quote-generator/static/css/main.5eb4d370.chunk.css",
+    "main.js": "/random-quote-generator/static/js/main.e8a340a7.chunk.js",
+    "main.js.map": "/random-quote-generator/static/js/main.e8a340a7.chunk.js.map",
     "runtime-main.js": "/random-quote-generator/static/js/runtime-main.2d12e079.js",
     "runtime-main.js.map": "/random-quote-generator/static/js/runtime-main.2d12e079.js.map",
     "static/js/2.d620cb94.chunk.js": "/random-quote-generator/static/js/2.d620cb94.chunk.js",
     "static/js/2.d620cb94.chunk.js.map": "/random-quote-generator/static/js/2.d620cb94.chunk.js.map",
     "index.html": "/random-quote-generator/index.html",
-    "static/css/main.8538c701.chunk.css.map": "/random-quote-generator/static/css/main.8538c701.chunk.css.map",
+    "static/css/main.5eb4d370.chunk.css.map": "/random-quote-generator/static/css/main.5eb4d370.chunk.css.map",
     "static/js/2.d620cb94.chunk.js.LICENSE.txt": "/random-quote-generator/static/js/2.d620cb94.chunk.js.LICENSE.txt",
     "static/media/10.6e8fb5b2.JPG": "/random-quote-generator/static/media/10.6e8fb5b2.JPG",
     "static/media/13.aeb48ada.JPG": "/random-quote-generator/static/media/13.aeb48ada.JPG",
@@ -23,13 +23,7 @@
     "static/media/24.be2f6e2f.JPG": "/random-quote-generator/static/media/24.be2f6e2f.JPG",
     "static/media/25.a02ce0e5.JPG": "/random-quote-generator/static/media/25.a02ce0e5.JPG",
     "static/media/3.01a36813.JPG": "/random-quote-generator/static/media/3.01a36813.JPG",
-    "static/media/35.0f3af413.JPG": "/random-quote-generator/static/media/35.0f3af413.JPG",
-    "static/media/36.a9dc6497.jpg": "/random-quote-generator/static/media/36.a9dc6497.jpg",
-    "static/media/37.93027121.jpg": "/random-quote-generator/static/media/37.93027121.jpg",
-    "static/media/38.9a21564d.jpg": "/random-quote-generator/static/media/38.9a21564d.jpg",
-    "static/media/39.60bc5c99.jpg": "/random-quote-generator/static/media/39.60bc5c99.jpg",
     "static/media/4.9660b7ae.JPG": "/random-quote-generator/static/media/4.9660b7ae.JPG",
-    "static/media/40.ff554ca2.jpg": "/random-quote-generator/static/media/40.ff554ca2.jpg",
     "static/media/5.c4bc5648.JPG": "/random-quote-generator/static/media/5.c4bc5648.JPG",
     "static/media/6.7b76d8f8.JPG": "/random-quote-generator/static/media/6.7b76d8f8.JPG",
     "static/media/9.1740ddf0.JPG": "/random-quote-generator/static/media/9.1740ddf0.JPG"
@@ -37,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.2d12e079.js",
     "static/js/2.d620cb94.chunk.js",
-    "static/css/main.8538c701.chunk.css",
-    "static/js/main.5df9fff6.chunk.js"
+    "static/css/main.5eb4d370.chunk.css",
+    "static/js/main.e8a340a7.chunk.js"
   ]
 }

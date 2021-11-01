@@ -17,7 +17,10 @@ background-color: black;
   }
   
   .datetime{
-    
+    background: black;
+    opacity:0.6;
+    border-radius: 10%;
+    padding:1%;
   }
   .timer{
      color:white;
@@ -55,12 +58,16 @@ font-family: 'Space Mono', monospace;
   }
 #text{
   color: white;
-  text-shadow: 4px 4px 5px black;
- 
+  text-shadow: 10px 10px 5px black;
+ background: black;
+ border-radius: 10px;
+ opacity: 0.6;
 font-family: 'Space Mono', monospace;
   font-size:1.2em;
   display: flex;
+  flex-wrap: wrap;
   align-content: center;
+  padding:1%
 }
 .page-footer {
   
@@ -73,13 +80,17 @@ font-family: 'Space Mono', monospace;
   
 }
 
+.quote {
+  font-style: oblique;
+}
+
 .button {
     padding: 5px 10px;
     font-size: 30px;
     text-decoration: none;
     color: hsla(0, 0%, 90%, 1);
-    background: linear-gradient(rgb(3, 3, 3), rgb(75, 88, 160));
-   
+    background: black;
+   opacity:0.5;
     border-radius: 10px;
     box-shadow: 2px 2px 15px -5px hsla(0, 0%, 0%, 1);
     text-align: center;

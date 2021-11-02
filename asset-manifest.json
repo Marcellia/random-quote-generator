@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/random-quote-generator/static/css/main.0fd36704.chunk.css",
-    "main.js": "/random-quote-generator/static/js/main.5bff6cd7.chunk.js",
-    "main.js.map": "/random-quote-generator/static/js/main.5bff6cd7.chunk.js.map",
+    "main.css": "/random-quote-generator/static/css/main.fd060477.chunk.css",
+    "main.js": "/random-quote-generator/static/js/main.bf22d60b.chunk.js",
+    "main.js.map": "/random-quote-generator/static/js/main.bf22d60b.chunk.js.map",
     "runtime-main.js": "/random-quote-generator/static/js/runtime-main.2d12e079.js",
     "runtime-main.js.map": "/random-quote-generator/static/js/runtime-main.2d12e079.js.map",
     "static/js/2.d620cb94.chunk.js": "/random-quote-generator/static/js/2.d620cb94.chunk.js",
     "static/js/2.d620cb94.chunk.js.map": "/random-quote-generator/static/js/2.d620cb94.chunk.js.map",
     "index.html": "/random-quote-generator/index.html",
-    "static/css/main.0fd36704.chunk.css.map": "/random-quote-generator/static/css/main.0fd36704.chunk.css.map",
+    "static/css/main.fd060477.chunk.css.map": "/random-quote-generator/static/css/main.fd060477.chunk.css.map",
     "static/js/2.d620cb94.chunk.js.LICENSE.txt": "/random-quote-generator/static/js/2.d620cb94.chunk.js.LICENSE.txt",
     "static/media/10.6e8fb5b2.JPG": "/random-quote-generator/static/media/10.6e8fb5b2.JPG",
     "static/media/13.aeb48ada.JPG": "/random-quote-generator/static/media/13.aeb48ada.JPG",
@@ -26,12 +26,32 @@
     "static/media/4.9660b7ae.JPG": "/random-quote-generator/static/media/4.9660b7ae.JPG",
     "static/media/5.c4bc5648.JPG": "/random-quote-generator/static/media/5.c4bc5648.JPG",
     "static/media/6.7b76d8f8.JPG": "/random-quote-generator/static/media/6.7b76d8f8.JPG",
-    "static/media/9.1740ddf0.JPG": "/random-quote-generator/static/media/9.1740ddf0.JPG"
+    "static/media/9.1740ddf0.JPG": "/random-quote-generator/static/media/9.1740ddf0.JPG",
+    "static/media/IMG_1686.84e731bb.jpg": "/random-quote-generator/static/media/IMG_1686.84e731bb.jpg",
+    "static/media/IMG_2224.2455cd84.JPG": "/random-quote-generator/static/media/IMG_2224.2455cd84.JPG",
+    "static/media/IMG_2699.b80456ab.jpg": "/random-quote-generator/static/media/IMG_2699.b80456ab.jpg",
+    "static/media/IMG_2892.cc032902.JPG": "/random-quote-generator/static/media/IMG_2892.cc032902.JPG",
+    "static/media/IMG_2909.be38f6fd.JPG": "/random-quote-generator/static/media/IMG_2909.be38f6fd.JPG",
+    "static/media/IMG_2946.495dc0df.JPG": "/random-quote-generator/static/media/IMG_2946.495dc0df.JPG",
+    "static/media/IMG_2950.3a8db77b.JPG": "/random-quote-generator/static/media/IMG_2950.3a8db77b.JPG",
+    "static/media/IMG_3638.efec8282.JPG": "/random-quote-generator/static/media/IMG_3638.efec8282.JPG",
+    "static/media/IMG_3857.e4fe826f.jpg": "/random-quote-generator/static/media/IMG_3857.e4fe826f.jpg",
+    "static/media/IMG_3892.e0722f61.jpg": "/random-quote-generator/static/media/IMG_3892.e0722f61.jpg",
+    "static/media/IMG_4149.2e11ba66.jpg": "/random-quote-generator/static/media/IMG_4149.2e11ba66.jpg",
+    "static/media/IMG_5004.a901a326.JPG": "/random-quote-generator/static/media/IMG_5004.a901a326.JPG",
+    "static/media/IMG_5115.95256d06.JPG": "/random-quote-generator/static/media/IMG_5115.95256d06.JPG",
+    "static/media/IMG_5125.3041be3f.JPG": "/random-quote-generator/static/media/IMG_5125.3041be3f.JPG",
+    "static/media/IMG_5127.e1d91c64.JPG": "/random-quote-generator/static/media/IMG_5127.e1d91c64.JPG",
+    "static/media/IMG_5128.3e3778da.JPG": "/random-quote-generator/static/media/IMG_5128.3e3778da.JPG",
+    "static/media/IMG_5207.963411cc.jpg": "/random-quote-generator/static/media/IMG_5207.963411cc.jpg",
+    "static/media/IMG_52071.963411cc.jpg": "/random-quote-generator/static/media/IMG_52071.963411cc.jpg",
+    "static/media/IMG_5520.0377befa.JPG": "/random-quote-generator/static/media/IMG_5520.0377befa.JPG",
+    "static/media/IMG_5567.b7a54654.JPG": "/random-quote-generator/static/media/IMG_5567.b7a54654.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.2d12e079.js",
     "static/js/2.d620cb94.chunk.js",
-    "static/css/main.0fd36704.chunk.css",
-    "static/js/main.5bff6cd7.chunk.js"
+    "static/css/main.fd060477.chunk.css",
+    "static/js/main.bf22d60b.chunk.js"
   ]
 }

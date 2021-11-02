@@ -22,7 +22,30 @@ import img22 from "../img/25.JPG";
 
 
 
-let backgroundList = [img2,img3,img4,img5,img6,img9,img10,img13,img14,img15,img16,img17,img18,img19,img20,img21,img22]
+import img23 from "../img/IMG_1686.jpg";
+import img24 from "../img/IMG_2224.JPG";
+import img25 from "../img/IMG_2699.jpg";
+import img26 from "../img/IMG_2892.JPG";
+import img27 from "../img/IMG_2909.JPG";
+import img28 from "../img/IMG_2946.JPG";
+import img29 from "../img/IMG_2950.JPG";
+import img30 from "../img/IMG_3638.JPG";
+
+import img31 from "../img/IMG_3857.jpg";
+import img32 from "../img/IMG_3892.jpg";
+import img33 from "../img/IMG_4149.jpg";
+import img34 from "../img/IMG_5004.JPG";
+import img35 from "../img/IMG_5115.JPG";
+import img36 from "../img/IMG_5125.JPG";
+import img37 from "../img/IMG_5127.JPG";
+import img38 from "../img/IMG_5128.JPG";
+import img39 from "../img/IMG_5207.jpg";
+
+import img40 from "../img/IMG_5520.JPG";
+import img41 from "../img/IMG_5567.JPG";
+import img42 from "../img/IMG_52071.jpg";
+
+let backgroundList = [img2,img3,img4,img5,img6,img9,img10,img13,img14,img15,img16,img17,img18,img19,img20,img21,img22,img23,img24,img25,img26,img27,img28,img29,img30,img31,img32,img33,img34,img35,img36,img37,img38,img39,img40,img41,img42]
 // let colorList = [
 // 	'#E2C547','#C2DDC8','#99BFB3','#BCBF50','#D9B64E','#732002','#D98B48'
 // ]
